@@ -27,7 +27,7 @@ class Program
         streetNumber = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("");
-        Console.WriteLine("Your info is: " + streetNumber +" "+ streetName + ".");
+        Console.WriteLine("Your info is: " + streetNumber + " " + streetName + ".");
 
         Console.WriteLine("\nDone.");
     }
